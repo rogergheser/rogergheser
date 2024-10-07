@@ -12,7 +12,8 @@
 🚀 Passionate and keen problem solver
 
 📧 Feel free to connect with me or reach out via email:
-(Personal Email) w100roger@gmail.com | 
+
+(Personal Email) w100roger@gmail.com <br>
 (University Email) amir.gheser@studenti.unitn.it
 
  </div>
