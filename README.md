@@ -29,7 +29,6 @@
 
 <div align="center">
 
-[![Rogergheser's GitHub Streak](https://streak-stats.demolab.com?user=Rogergheser&theme=dark)](https://git.io/streak-stats)
 [![Rogergheser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogergheser&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Rogergheser's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogergheser&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/rogergheser)
 
