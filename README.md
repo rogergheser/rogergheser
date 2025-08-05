@@ -7,10 +7,6 @@
  
 🎓 Bachelor's Degree in Computer Science | ♟️ Chess Enthusiast
 
-🌱 Believer in constant growth and self-improvement.
-
-🚀 Passionate and keen problem solver
-
 📧 Feel free to connect with me or reach out via email:
 
 (Personal Email) w100roger@gmail.com <br>
